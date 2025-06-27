@@ -25,9 +25,8 @@ Atualmente aprendendo **Python** e **Docker**!
 
 ### 🚀 Projetos em Destaque
 
-- 🤖 [Kookie Chan](https://github.com/Kookie-Community/Kookie-Chan) — Bot do Discord feito para o servidor da rede social brasileira Kookie!
-- 🧙‍♀️ Elowen (em breve) — Um projeto a caminho...
-
+- 🤖 [Kookie Chan](https://github.com/Kookie-Community/Kookie-Chan) — Bot do Discord feito para o servidor da rede social brasileira Kookie
+  
 ---
 
 ### 📈 Estatísticas & Atividade
