@@ -49,9 +49,8 @@ Atualmente aprendendo **Python** e **Docker**!
 ### 📫 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/markelpher)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@markelpher)
 [![X](https://img.shields.io/badge/X-100000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/markelpher)
 
 ---
 
-⭐️ *Se curtir, dá um star em algum projeto!*
+⭐️ *Se curtir, dá uma estrela em algum projeto!*
