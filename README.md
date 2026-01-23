@@ -1,35 +1,69 @@
 <h1 align="center">Olá! Eu sou o Mark 👋</h1>
 
 <p align="center">
-  🎧 Produtor Musical • 👨‍💻 Programador por hobby • 📹 Criador de Conteúdo
+Produtor Musical • Programador por hobby • Criador de Conteúdo
 </p>
 
 ---
 
-### 🎯 Sobre mim
+### Sobre mim
 
 Sou uma pessoa que adora aprender e transformar grandes ideias em projetos reais. Nas horas vagas, crio conteúdo, mexo com música e exploro o mundo da tecnologia por diversão. 
-Atualmente aprendendo **Python** e **Docker**!
+Atualmente aprendendo: **Next.JS** e **Python**!
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+<details open>
+<summary><strong>Sistemas & Ferramentas</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,vscode,docker" />
+</p>
+</details>
+
+<details open>
+<summary><strong>Frontend</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,vite,tailwind" />
+</p>
+</details>
+
+<details open>
+<summary><strong>Backend</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
+</details>
+
+<details open>
+<summary><strong>Bancos de Dados</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+</details>
+
+<details open>
+<summary><strong>Outros / Extra</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=discord,figma,notion" />
+</p>
+</details>
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em destaque
 
-- 🤖 [Kookie Chan](https://github.com/markelpher/KookieChan) — Bot do Discord feito para o servidor da rede social brasileira Kookie
+- [Kookie Chan](https://github.com/markelpher/KookieChan) — Bot do Discord feito para o servidor da rede social brasileira Kookie
   
 ---
 
-### 📈 Estatísticas & Atividade
+### Estatísticas & atividade
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markelpher&show_icons=true&theme=tokyonight" />
@@ -38,7 +72,7 @@ Atualmente aprendendo **Python** e **Docker**!
 
 ---
 
-### 🎵 Um pouco de vibe...
+### Um pouco de vibe...
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" alt="Coding music vibe">
@@ -46,10 +80,9 @@ Atualmente aprendendo **Python** e **Docker**!
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/markelpher)
-[![X](https://img.shields.io/badge/X-100000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/markelpher)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/markelpher)
 
 ---
 
