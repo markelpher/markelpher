@@ -72,14 +72,6 @@ Atualmente aprendendo: **Next.JS** e **Python**!
 
 ---
 
-### Um pouco de vibe...
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" alt="Coding music vibe">
-</p>
-
----
-
 ### Onde me encontrar
 
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/markelpher)
