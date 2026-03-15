@@ -83,7 +83,3 @@ Atualmente aprendendo: **Next.JS** e **Python**!
 ### Onde me encontrar
 
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/markelpher)
-
----
-
-⭐️ *Se curtir, dá uma estrela em algum projeto!*
