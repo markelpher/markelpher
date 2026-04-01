@@ -8,8 +8,7 @@ Produtor Musical • Programador por hobby • Criador de Conteúdo
 
 ### Sobre mim
 
-Sou uma pessoa que adora aprender e transformar grandes ideias em projetos reais. Nas horas vagas, crio conteúdo, mexo com música e exploro o mundo da tecnologia por diversão. 
-Atualmente aprendendo: **Next.JS** e **Python**!
+Sou uma pessoa que adora aprender e transformar grandes ideias em projetos reais. Nas horas vagas, crio conteúdo, mexo com música e exploro o mundo da tecnologia por diversão.
 
 ---
 
@@ -17,41 +16,22 @@ Atualmente aprendendo: **Next.JS** e **Python**!
 
 <details open>
 <summary><strong>Sistemas & Ferramentas</strong></summary>
-
 <p>
   <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,vscode,docker" />
 </p>
 </details>
 
 <details open>
-<summary><strong>Frontend</strong></summary>
-
+<summary><strong>Linguagens & Tecnologias</strong></summary>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,vite,tailwind" />
-</p>
-</details>
-
-<details open>
-<summary><strong>Backend</strong></summary>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python" />
-</p>
-</details>
-
-<details open>
-<summary><strong>Bancos de Dados</strong></summary>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb" />
 </p>
 </details>
 
 <details open>
 <summary><strong>Outros / Extra</strong></summary>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=discord,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=discord,figma,notion,obsidian" />
 </p>
 </details>
 
