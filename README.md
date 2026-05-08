@@ -40,6 +40,7 @@ Sou uma pessoa que adora aprender e transformar grandes ideias em projetos reais
 ### Projetos em destaque
 
 - [Kookie Chan](https://github.com/markelpher/KookieChan) — Bot do Discord feito para o servidor da rede social brasileira Kookie
+- [Iris](https://github.com/markelpher/Iris) — Modelo inicial de bot do Discord em Python
   
 ---
 
